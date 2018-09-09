@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: "通过名单"
 show_downloads: false
 github:
-  is_project: false
+  is_project_page: false
